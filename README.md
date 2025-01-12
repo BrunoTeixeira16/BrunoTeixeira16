@@ -7,6 +7,8 @@
 
 ![BrunoTeixeira16 GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoTeixeira16&show_icons=true&theme=radical&locale=pt-br)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoTeixeira16&hide_progress=true)
+
 ## Tecnologias usadas no meu dia a dia
 
 <div style="display: inline_block"><br/>
