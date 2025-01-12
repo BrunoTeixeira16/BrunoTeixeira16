@@ -5,9 +5,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-teixeira-nogueira-09477a2b2/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/724340833708671027)
 
-![BrunoTeixeira16 GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoTeixeira16&show_icons=true&theme=radical&locale=pt-br)
+![BrunoTeixeira16 GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoteixeira16&show_icons=true&theme=radical&locale=pt-br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoTeixeira16&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoteixeira16&hide_progress=true)
 
 ## Tecnologias usadas no meu dia a dia
 
