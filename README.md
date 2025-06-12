@@ -1,9 +1,7 @@
 ### Olá! Eu sou Bruno Teixeira 👋
 
-[![Blog](https://img.shields.io/website?label=newagesystem.com&style=for-the-badge&url=https://brunodev.com/)](https://newagesystem.com)
+[![Blog](https://img.shields.io/website?label=curriculo-cv-bruno.com&style=for-the-badge&url=https://curriculo-cv-lac.vercel.app)](https://curriculo-cv-lac.vercel.app)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunonogueira28012005@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-teixeira-nogueira-09477a2b2/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/724340833708671027)
 
 ![BrunoTeixeira16 GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoteixeira16&show_icons=true&theme=radical&locale=pt-br)
 
